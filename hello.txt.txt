@@ -1,3 +1,7 @@
 Xin chào GitHub
 Đây là lần chỉnh sửa thứ 2
 Tôi đang làm việc trên branch test-branch
+1
+2
+3
+4
